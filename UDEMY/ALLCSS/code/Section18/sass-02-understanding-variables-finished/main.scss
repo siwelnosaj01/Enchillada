@@ -70,23 +70,26 @@ body {
   li {
     margin: 0.2rem 0;
     background: white;
-  }
 
-  .documentation-link {
+    .documentation-link {
     text-decoration: none;
     color: $main-color;
     display: block;
     padding: 0.2rem;
     border: 0.05rem solid $main-color;
-  }
-
-  .documentation-link:hover,
-  .documentation-link:active {
+    }
+    .documentation-link:hover,
+    .documentation-link:active {
     color: white;
     background: #fa923f;
     border-color: #fa923f;
   }
 }
+ 
+
+  
+
+  
 
 @media (min-width: 40rem) {
   html {
