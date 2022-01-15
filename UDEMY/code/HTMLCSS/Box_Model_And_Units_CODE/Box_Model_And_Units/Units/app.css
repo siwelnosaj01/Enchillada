@@ -1,0 +1,56 @@
+section {
+  background-color: blue;
+  width: 800px;
+  height: 800px;
+}
+
+div {
+  background-color: chartreuse;
+  width: 70%;
+  height: 70%;
+}
+
+h1 {
+  font-size: 40px;
+  border: 1px solid blue;
+  line-height: 0px%;
+}
+
+h2 {
+  font-size: 5em;
+  margin-left: 1em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+p {
+  font-size: 1em;
+}
+
+article {
+  font-size: 15px;
+}
+
+button {
+  font-size: 1em;
+  padding: 0 1em;
+  border-radius: 1em;
+  background-color: blueviolet;
+  color: wheat;
+}
+
+ul {
+  font-size: 0.7em;
+}
+
+#rems h3 {
+  font-size: 3rem;
+}
+
+#rems ul {
+  font-size: 0.8;
+}
+
+rems

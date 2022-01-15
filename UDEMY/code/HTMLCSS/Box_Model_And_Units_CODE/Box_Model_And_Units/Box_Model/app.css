@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+}
+
+div {
+  width: 200px;
+  height: 200px;
+  background-color: #ffadad;
+}
+
+h1 {
+  background-color: pink;
+  width: 100px;
+  padding-left: 100px;
+  padding-top: 60px;
+  padding-bottom: 30px;
+  margin: 0;
+}
+
+#one {
+  background-color: #7b2cbf;
+  border-width: 5px;
+  border-color: black;
+  border-style: solid;
+  padding-right: 50px;
+  margin-left: 50px;
+  margin-bottom: 100px;
+  /*box-sizing: border-box; will automatically resize the box to calculate the additional pixel width*/
+}
+
+#two {
+  background-color: #6a040f;
+  border-color: #87986a;
+  border-width: 3px;
+  border-style: dashed;
+  border-left-width: 8px;
+  border-top-right-radius: 10%;
+  padding: 10px;
+  margin: 200px;
+}
+
+#three {
+  background-color: #f28482;
+  border: 4px dotted black;
+  border-left-style: dashed;
+  border-radius: 10%;
+}
+
+button {
+  padding: 10px 20px 30px 40px;
+  margin: 40px;
+  /*pads all sides same pixeel*/
+}
